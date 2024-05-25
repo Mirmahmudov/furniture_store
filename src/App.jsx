@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Product from './pages/products/Product';
 import Home from './pages/home/Home';
-import Navbar from './components/Navbar/Navbar';
+import Navbar from './components/navbar/Navbar.jsx';
 import Cart from './pages/cart/Cart';
 import Modal from './components/modal/Modal';
 
